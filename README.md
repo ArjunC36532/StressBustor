@@ -37,4 +37,8 @@ StressBustor is a powerful and user-friendly app designed to help users assess a
 6. **Launch the App:**
    - Tap on the StressBustor icon to open the app.
 
+### View Source Code on GitHub
+
+To explore the source code for StressBustor, visit the [GitHub repository](https://github.com/ArjunC36532/StressBustor) and navigate to the master branch.
+
 🚀 **Download StressBustor and embark on a journey towards a stress-free, more fulfilling life!** 🚀
